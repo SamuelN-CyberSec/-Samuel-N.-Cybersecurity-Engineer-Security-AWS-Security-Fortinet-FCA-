@@ -1,7 +1,7 @@
 # -Samuel-N.-Cybersecurity-Engineer-Security+-AWS-Security-Fortinet-FCA-
 Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet FCA certifications. I specialize in network security, vulnerability assessments, risk management, cloud security, web application testing, and IT operations.
 
- 🔐 Cybersecurity & Cloud Projects
+#  🔐 Cybersecurity & Cloud Projects
 # Windows-Firewall-Security-Configuration-With-Kali-Linux-Attack-Simulation
 - Configured Windows Defender Firewall inbound rules to allow essential traffic (HTTP/HTTPS) while blocking ICMP to prevent ping-based reconnaissance from Kali Linux.
 - Simulated real-world attack (Nmap scan & ping test) from Kali guest machine to confirm firewall effectiveness—logged dropped packets and verified that unauthorized access     attempts were blocked.
@@ -13,7 +13,7 @@ Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet F
 # Network-Security-Hardening-Using-Wireshark
 - Used Wireshark to capture and analyze baseline network traffic on Windows 11, identifying potential misconfigurations, scanning attempts, and unencrypted transmissions.
 - Implemented security hardening by enabling HTTPS settings and DNS filtering, then verified results by comparing post-hardening traffic captures—showed clear reduction in    insecure behavior.
-- 
+  
 # AWS-IAM-User-Secure-Setup-Project
 - Created and configured IAM user with assigned managed policies, grouped roles, and enforced Multi-Factor Authentication (MFA) using Microsoft Authenticator to secure AWS    access.
 - Applied security best practices such as least privilege principle, avoiding root account use, and verifying MFA functionality through practical sign-in test.
