@@ -49,6 +49,24 @@ Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet F
 - Shared mitigation strategies against reconnaissance attacks using auxiliary modules, including firewall hardening, segmentation, honeypots, service obfuscation, and         active threat hunting protocols.
 
 
+# 🧩 Certifications
+- ✅ **CompTIA Security+**
+
+- ✅ **AWS Cloud Essentials**
+
+- ✅ **Microsoft SC-900**
+
+- ✅ **Fortinet Certified Associate (FCA)**
+
+
+
+# 📫 Contact
+- 🔗 LinkedIn: (linkedin.com/in/samuel-nwokemodo )
+- 🐙 GitHub: [@SamuelN-CyberSec](https://github.com/SamuelN-CyberSec)
+
+
+
+
 
 
 
