@@ -66,9 +66,7 @@ Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet F
 - ✅ **Microsoft SC-900**
 
 - ✅ **Fortinet Certified Associate (FCA)**
-- 
-- ✅ **Elements of AI For Bussiness**
-- 
+- ✅ **Elements of AI For Bussiness**- 
 - ✅ **Team Essential for Designing AI Solutions**
 
 
