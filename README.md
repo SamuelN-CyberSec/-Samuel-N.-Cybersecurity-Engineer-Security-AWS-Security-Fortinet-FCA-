@@ -1,6 +1,15 @@
 # -Samuel-N.-Cybersecurity-Engineer-Security+-AWS-Security-Fortinet-FCA-
 Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet FCA certifications. I specialize in network security, vulnerability assessments, risk management, cloud security, web application testing, and IT operations.
 
+# Agentic AI Risk Whisperer | AI-Driven Risk Intelligence Platform
+•	Designed and deployed an AI-powered risk assessment system aligned with enterprise cybersecurity risk frameworks
+•	Implemented multi-agent analysis to evaluate risk severity, likelihood, impact, and mitigation effectiveness
+•	Built structured risk scoring models supporting cyber, compliance, operational, and strategic categories
+•	Integrated RESTful APIs with a structured database for persistent tracking of risk posture
+•	Developed dashboard metrics including exposure scoring (0–10 scale), trend monitoring, and risk categorization
+•	Engineered asynchronous processing with status polling for real-time AI evaluation workflows
+•	Improved consistency of AI-generated assessments using role-based agent architecture and controlled prompt engineering
+
 #  🔐 Cybersecurity & Cloud Projects
 # Windows-Firewall-Security-Configuration-With-Kali-Linux-Attack-Simulation
 - Configured Windows Defender Firewall inbound rules to allow essential traffic (HTTP/HTTPS) while blocking ICMP to prevent ping-based reconnaissance from Kali Linux.
@@ -57,6 +66,10 @@ Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet F
 - ✅ **Microsoft SC-900**
 
 - ✅ **Fortinet Certified Associate (FCA)**
+- 
+- ✅ **Elements of AI For Bussiness**
+- 
+- ✅ **Team Essential for Designing AI Solutions**
 
 
 
