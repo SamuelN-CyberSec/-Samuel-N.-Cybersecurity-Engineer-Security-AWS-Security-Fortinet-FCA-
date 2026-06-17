@@ -1,4 +1,4 @@
-# -Samuel-N.-Cybersecurity-Engineer-Security+-AWS-Security-Fortinet-FCA-
+# -Samuel-N.-Cybersecurity-Engineer-Security+ Vulnerability Assessments, Risk management, Cloud Security, Web Application Testing,AI Systems Builder, and IT operations.
 Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet FCA certifications. I specialize in network security, vulnerability assessments, risk management, cloud security, web application testing,AI Systems Builder, and IT operations.
 
 # Agentic AI Risk Whisperer | AI-Driven Risk Intelligence Platform
