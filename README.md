@@ -1,4 +1,4 @@
-# -Samuel-N.-Cybersecurity-Engineer-Security+ Vulnerability Assessments, Risk management, Cloud Security, Web Application Testing,AI Systems Builder, and IT operations.
+# -Samuel-N.-Cybersecurity-Engineer-Security+ Vulnerability Assessments, Risk Management, Cloud Security, Web Application Testing,AI Systems Builder, and IT operations.
 Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet FCA certifications. I specialize in network security, vulnerability assessments, risk management, cloud security, web application testing,AI Systems Builder, and IT operations.
 
 # Agentic AI Risk Whisperer | AI-Driven Risk Intelligence Platform
@@ -47,24 +47,6 @@ Cybersecurity professional with Security+, AWS, Microsoft SC-900, and Fortinet F
 4. Demonstrated auxiliary module usage (port scanning, FTP enumeration) and developed mitigation strategies including firewall hardening and honeypots
 5. Conducted port/service security audits using Nmap and netstat to identify unused ports and reduce attack surface via Windows Firewall rules
 ---
-# Windows-Firewall-Security-Configuration-With-Kali-Linux-Attack-Simulation
-1.Configured Windows Defender Firewall inbound rules to allow essential traffic (HTTP/HTTPS) while blocking ICMP to prevent ping-based reconnaissance from Kali Linux.
-2. Simulated real-world attack (Nmap scan & ping test) from Kali guest machine to confirm firewall effectiveness—logged dropped packets and verified that unauthorized access attempts were blocked.
-
-# Port-Service-Security-Audit-Using-Nmap-and-CMD
-1. Identified used and unused ports, then disabled unnecessary services running on Windows using CMD and Nmap to reduce attack surface and improve system security.
-2. Blocked vulnerable ports using Windows Firewall rules after scanning with Nmap and inspecting active connections via netstat to ensure only essential services remain open.
-
-# Network-Security-Hardening-Using-Wireshark
-1.Used Wireshark to capture and analyze baseline network traffic on Windows 11, identifying potential misconfigurations, scanning attempts, and unencrypted transmissions.
-2. Implemented security hardening by enabling HTTPS settings and DNS filtering, then verified results by comparing post-hardening traffic captures—showed clear reduction in    insecure behavior.
-
-
-# Burp-Proxy-For-Web-Traffic-Dissection-And-Security-Hardening
-1. Utilized Burp Suite to intercept, analyze, and manipulate HTTP/HTTPS web traffic on a Windows machine—tested input fields, cookies, and responses for vulnerabilities        like <script>, SQL syntax, and status code anomalies.
-2. Configured proxy and browser settings to route traffic through Burp Proxy, enabling hands-on vulnerability testing and applying hardening techniques to improve web          application security posture.
-  
-
   # Installation-and-Configuring-of-Metasploit-framework-on-Kali-Linux
   1. Installed and configured Metasploit Framework on Kali Linux using package manager and validated PostgreSQL    database connectivity to enable exploit testing environment.
   2. Initiated Metasploit console and database setup (msfdb init, db_connect, db_status) to prepare for structured   vulnerability validation and penetration testing               activities.
